@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Cypress output files
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Test reports and logs
+cypress/reports/
+cypress/results/
+mochawesome-report/
+*.log
+*.tsbuildinfo
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+
