@@ -1,0 +1,17 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress run --browser chrome --headed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^14.0.3",
+    "cypress-downloadfile": "^1.2.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
