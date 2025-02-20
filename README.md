@@ -13,6 +13,7 @@ Cypress (installed via npm)
 2️⃣ Clone the Repository
 
 git clone https://github.com/Sanjay-Veernala/cypress_Assignment_webscrapping.git
+
 cd cypress-webscraper
 
 3️⃣ Install Dependencies
